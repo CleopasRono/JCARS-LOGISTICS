@@ -223,7 +223,7 @@ Finally, I would recommend **building automated data-quality checks into the reg
 ### Repository Contents
 
 ```text
-JCars-Logistics-A-Power-BI-Business-Intelligence-Project/
+JCars-Logistics-A-Power-BI-Project/
 │
 ├── Jcar_Project.pbix
 ├── Jcars_data.csv
@@ -241,8 +241,8 @@ JCars-Logistics-A-Power-BI-Business-Intelligence-Project/
 ```
 
 #### Files Description
-* **`Jcar_Project.pbix`:** Completed Power BI project file containing the data model, Power Query steps, and interactive dashboards.
-* **`Jcars_data.csv`:** Source dataset used for the analysis and data cleansing processes.
+* **`JCars logistics power Bi project.pbix`:** Completed Power BI project file containing the data model, Power Query steps, and interactive dashboards.
+* **`JCARS DATA.csv`:** Source dataset used for the analysis and data cleansing processes.
 * **`README.md`:** Comprehensive project documentation and documentation logs.
 * **`screenshots/`:** Folder containing high-resolution report, dashboard, and relationship model screenshots.
 
